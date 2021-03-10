@@ -1,0 +1,12 @@
+RPG MODE
+--------
+
+
+How to install
+==============
+
+The RPG folder and the rpg.mod file from the archive are unpacked here:
+
+C: \ Users \ * Username * \ Documents \ Paradox Interactive \ Hearts of Iron IV \ mod
+
+Enable the mod in the launcher. Play.

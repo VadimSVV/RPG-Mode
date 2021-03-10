@@ -1,0 +1,386 @@
+leader_skills = {
+
+	### NAVY ###
+	10 = {
+		cost = 51200
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.50
+			naval_coordination = 0.20
+		}
+	}
+	
+	11 = {
+		cost = 76800
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.55
+			naval_coordination = 0.22
+		}
+	}
+
+	12 = {
+		cost = 102400
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.60
+			naval_coordination = 0.24
+		}
+	}
+
+	13 = {
+		cost = 128000
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.65
+			naval_coordination = 0.26
+		}
+	}
+
+	14 = {
+		cost = 153600
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.70
+			naval_coordination = 0.28
+		}
+	}
+
+	15 = {
+		cost = 179200
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.75
+			naval_coordination = 0.30
+		}
+	}
+
+	16 = {
+		cost = 204800
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.80
+			naval_coordination = 0.32
+		}
+	}
+
+	17 = {
+		cost = 230400
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.85
+			naval_coordination = 0.34
+		}
+	}
+
+	18 = {
+		cost = 256000
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.90
+			naval_coordination = 0.36
+		}
+	}
+
+	19 = {
+		cost = 281600
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.95
+			naval_coordination = 0.38
+		}
+	}
+
+	20 = {
+		cost = 307200
+		type = navy
+		modifier = {
+			naval_hit_chance = 1.00
+			naval_coordination = 0.40
+		}
+	}
+
+	21 = {
+		cost = 332800
+		type = navy
+		modifier = {
+			naval_hit_chance = 1.05
+			naval_coordination = 0.42
+		}
+	}
+
+	22 = {
+		cost = 358400
+		type = navy
+		modifier = {
+			naval_hit_chance = 1.10
+			naval_coordination = 0.44
+		}
+	}
+
+	23 = {
+		cost = 384000
+		type = navy
+		modifier = {
+			naval_hit_chance = 1.15
+			naval_coordination = 0.46
+		}
+	}
+
+	24 = {
+		cost = 409600
+		type = navy
+		modifier = {
+			naval_hit_chance = 1.20
+			naval_coordination = 0.48
+		}
+	}
+
+	25 = {
+		cost = 435200
+		type = navy
+		modifier = {
+			naval_hit_chance = 1.25
+			naval_coordination = 0.50
+		}
+	}
+
+	26 = {
+		cost = 460800
+		type = navy
+		modifier = {
+			naval_hit_chance = 1.30
+			naval_coordination = 0.52
+		}
+	}
+
+	27 = {
+		cost = 486400
+		type = navy
+		modifier = {
+			naval_hit_chance = 1.35
+			naval_coordination = 0.54
+		}
+	}
+
+	28 = {
+		cost = 512000
+		type = navy
+		modifier = {
+			naval_hit_chance = 1.40
+			naval_coordination = 0.56
+		}
+	}
+
+	29 = {
+		cost = 537600
+		type = navy
+		modifier = {
+			naval_hit_chance = 1.45
+			naval_coordination = 0.58
+		}
+	}
+
+	30 = {
+		cost = 563200
+		type = navy
+		modifier = {
+			naval_hit_chance = 1.50
+			naval_coordination = 0.60
+		}
+	}
+
+	### Corps Commander ###
+	10 = {
+		cost = 20000
+		type = corps_commander
+	}
+	
+	11 = {
+		cost = 30000
+		type = corps_commander
+	}
+		
+	12 = {
+		cost = 40000
+		type = corps_commander
+	}
+	
+	
+	13 = {
+		cost = 50000
+		type = corps_commander
+	}
+	
+	14 = {
+		cost = 60000
+		type = corps_commander
+	}
+	
+	15 = {
+		cost = 70000
+		type = corps_commander
+	}
+
+	16 = {
+		cost = 80000
+		type = corps_commander
+	}
+
+	17 = {
+		cost = 90000
+		type = corps_commander
+	}
+
+	18 = {
+		cost = 100000
+		type = corps_commander
+	}
+
+	19 = {
+		cost = 110000
+		type = corps_commander
+	}
+	20 = {
+		cost = 120000
+		type = corps_commander
+	}
+	21 = {
+		cost = 130000
+		type = corps_commander
+	}
+	22 = {
+		cost = 140000
+		type = corps_commander
+	}
+	23 = {
+		cost = 150000
+		type = corps_commander
+	}
+	24 = {
+		cost = 160000
+		type = corps_commander
+	}
+	25 = {
+		cost = 170000
+		type = corps_commander
+	}
+	26 = {
+		cost = 180000
+		type = corps_commander
+	}
+	27 = {
+		cost = 190000
+		type = corps_commander
+	}
+	28 = {
+		cost = 200000
+		type = corps_commander
+	}
+	29 = {
+		cost = 210000
+		type = corps_commander
+	}
+	30 = {
+		cost = 220000
+		type = corps_commander
+	}
+	
+	
+	### Field Marshal ###
+	10 = {
+		cost = 20000
+		type = field_marshal
+	}
+	
+	11 = {
+		cost = 30000
+		type = field_marshal
+	}
+	
+	
+	12 = {
+		cost = 40000
+		type = field_marshal
+	}
+	
+	
+	13 = {
+		cost = 50000
+		type = field_marshal
+	}
+	
+	14 = {
+		cost = 60000
+		type = field_marshal
+	}
+	
+	15 = {
+		cost = 70000
+		type = field_marshal
+	}
+
+	16 = {
+		cost = 80000
+		type = field_marshal
+	}	
+
+	17 = {
+		cost = 90000
+		type = field_marshal
+	}	
+
+	18 = {
+		cost = 100000
+		type = field_marshal
+	}	
+
+	19 = {
+		cost = 110000
+		type = field_marshal
+	}
+	20 = {
+		cost = 120000
+		type = field_marshal
+	}
+	21 = {
+		cost = 130000
+		type = field_marshal
+	}
+	22 = {
+		cost = 140000
+		type = field_marshal
+	}
+	23 = {
+		cost = 150000
+		type = field_marshal
+	}
+	24 = {
+		cost = 160000
+		type = field_marshal
+	}
+	25 = {
+		cost = 170000
+		type = field_marshal
+	}
+	26 = {
+		cost = 180000
+		type = field_marshal
+	}
+	27 = {
+		cost = 190000
+		type = field_marshal
+	}
+	28 = {
+		cost = 200000
+		type = field_marshal
+	}
+	29 = {
+		cost = 210000
+		type = field_marshal
+	}
+	30 = {
+		cost = 220000
+		type = field_marshal
+	}
+}

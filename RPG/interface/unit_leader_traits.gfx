@@ -1,0 +1,79 @@
+spriteTypes = {
+	#### Leader trait icons ####
+	#### Personal traits    ####
+	############################
+	# Logistical Wizard #########################
+	spriteType = {
+		name = "GFX_trait_logistics_wizard_CC"
+		texturefile = "gfx/interface/traits/logistics_wizard_CC.dds"
+	}	
+	spriteType = {
+		name = "GFX_trait_logistics_wizard_CC_II"
+		texturefile = "gfx/interface/traits/logistics_wizard_CC_II.dds"
+	}	
+	spriteType = {
+		name = "GFX_trait_logistics_wizard_CC_III"
+		texturefile = "gfx/interface/traits/logistics_wizard_CC_III.dds"
+	}
+	# Offensive Doctrine #########################
+	spriteType = {
+		name = "GFX_trait_offensive_doctrine_CC"
+		texturefile = "gfx/interface/traits/offensive_doctrine_CC.dds"
+	}	
+	spriteType = {
+		name = "GFX_trait_offensive_doctrine_CC_II"
+		texturefile = "gfx/interface/traits/offensive_doctrine_CC_II.dds"
+	}	
+	spriteType = {
+		name = "GFX_trait_offensive_doctrine_CC_III"
+		texturefile = "gfx/interface/traits/offensive_doctrine_CC_III.dds"
+	}
+	# Defensive Doctrine #########################
+	spriteType = {
+		name = "GFX_trait_defensive_doctrine_CC"
+		texturefile = "gfx/interface/traits/defensive_doctrine_CC.dds"
+	}	
+	spriteType = {
+		name = "GFX_trait_defensive_doctrine_CC_II"
+		texturefile = "gfx/interface/traits/defensive_doctrine_CC_II.dds"
+	}	
+	spriteType = {
+		name = "GFX_trait_defensive_doctrine_CC_III"
+		texturefile = "gfx/interface/traits/defensive_doctrine_CC_III.dds"
+	}
+	# Panzer Leader #########################
+	spriteType = {
+		name = "GFX_trait_panzer_leader_II"
+		texturefile = "gfx/interface/traits/panzer_leader_II.dds"
+	}	
+	spriteType = {
+		name = "GFX_trait_panzer_leader_III"
+		texturefile = "gfx/interface/traits/panzer_leader_III.dds"
+	}
+	# Spearhead Specialist #########################
+	spriteType = {
+		name = "GFX_trait_spearhead_specialist"
+		texturefile = "gfx/interface/traits/spearhead_specialist.dds"
+	}
+	spriteType = {
+		name = "GFX_trait_spearhead_specialist_II"
+		texturefile = "gfx/interface/traits/spearhead_specialist_II.dds"
+	}	
+	spriteType = {
+		name = "GFX_trait_spearhead_specialist_III"
+		texturefile = "gfx/interface/traits/spearhead_specialist_III.dds"
+	}
+	# Trench Warfare Specialist #########################
+	spriteType = {
+		name = "GFX_trait_trench_warfare_specialist"
+		texturefile = "gfx/interface/traits/trench_warfare_specialist.dds"
+	}
+	spriteType = {
+		name = "GFX_trait_trench_warfare_specialist_II"
+		texturefile = "gfx/interface/traits/trench_warfare_specialist_II.dds"
+	}
+	spriteType = {
+		name = "GFX_trait_trench_warfare_specialist_III"
+		texturefile = "gfx/interface/traits/trench_warfare_specialist_III.dds"
+	}
+}

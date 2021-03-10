@@ -1,0 +1,12 @@
+RPG MODE
+--------
+
+
+Как установить
+==============
+
+Папку RPG и файл rpg.mod из архива распаковать сюда:
+
+C:\Users\*Username*\Documents\Paradox Interactive\Hearts of Iron IV\mod
+
+Включить мод в лаунчере. Играть.
