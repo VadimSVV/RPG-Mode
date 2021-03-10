@@ -1,6 +1,7 @@
 [h1] Advanced combat system	[/h1]
 
 Required version (1.10+)
+
 Language support: Russian, English, Portuguese, French, German, Polish and Spanish.
 
 Short description:
