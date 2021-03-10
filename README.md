@@ -1,1 +1,1 @@
-Продвинутая боевая система
+Advanced combat system
