@@ -4,7 +4,7 @@ Required version (1.10+)
 
 Language support: Russian, English, Portuguese, French, German, Polish and Spanish.
 
-Short description:
+Description:
 Changes the standard combat system to a more advanced one. Will add a lot of interest to the game.
 Generals, field marshals and admirals can be pumped up to level 30. Choose your leaders carefully.
 The skills of the leaders are pumped up to level 30. Depends on the level of the officer.
