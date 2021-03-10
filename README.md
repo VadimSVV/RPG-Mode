@@ -1,4 +1,4 @@
-[h1] Advanced combat system	[/h1]
+Advanced combat system
 
 Required version (1.10+)
 
