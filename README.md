@@ -1,17 +1,7 @@
-Advanced combat system
+Продвинутая боевая система
 
-Required version (1.10+)
+Требуемая версия (1.10+)
 
-Language support: Russian, English, Portuguese, French, German, Polish and Spanish.
+Поддержка языков: русский, английский, португальский, французский, немецкий, польский и испанский.
 
-Description:
-Changes the standard combat system to a more advanced one. Will add a lot of interest to the game.
-Generals, field marshals and admirals can be pumped up to level 30. Choose your leaders carefully.
-The skills of the leaders are pumped up to level 30. Depends on the level of the officer.
-Units are pumped up to level 52. Don't forget to train them before attacking.
-The maximum experience of the army, navy and air force is 5000.
-The maximum command resource is 300.
-The standard number of divisions for a general is 48. Maybe more.
-A field marshal can have an infinite number of divisions.
-New leader trait system.
-Additional slots for traits.
+Описание: Меняет стандартную боевую систему на более продвинутую. Добавит интереса. Генералов, фельдмаршалов и адмиралов можно прокачать до 30 уровня. Тщательно выбирайте своих лидеров. Навыки лидеров прокачаны до 30 уровня. Зависит от уровня офицера. Юниты прокачиваются до 52 уровня. Не забывайте тренировать их перед атакой. Максимальный опыт армии, флота и авиации - 5000. Максимальный командный ресурс - 300. Стандартное количество дивизий для генерала - 48. Может быть, больше. У фельдмаршала может быть бесконечное количество дивизий. Новая система черт лидеров. Дополнительные слоты для черт. 
