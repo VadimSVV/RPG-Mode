@@ -2,7 +2,7 @@ RPG Mode
 
 Продвинутая боевая система (финал)
 
-<img src="https://steamcommunity.com/sharedfiles/filedetails/?id=1429338237" alt="альтернативный текст">
+src="https://steamcommunity.com/sharedfiles/filedetails/?id=1429338237" alt="альтернативный текст"
 
 Требуется версия (1.12+)
 
