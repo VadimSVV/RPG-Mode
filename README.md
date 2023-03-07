@@ -1,4 +1,4 @@
-Запустить <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1429338237" target="_blank">RPG Mode</a>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1429338237" target="_blank">RPG Mode</a>
 
 Продвинутая боевая система (финал)
 
