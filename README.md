@@ -1,5 +1,3 @@
-RPG Mode
-
 Продвинутая боевая система (финал)
 
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1429338237" target="_blank">RPG Mode</a>
