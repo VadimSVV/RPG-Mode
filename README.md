@@ -1,5 +1,9 @@
+RPG Mode
+
 Продвинутая боевая система (финал)
-[url=https://disk.yandex.ru/d/ZB3OynUg6nO61A] RPG Mode	[/url]
+
+<img src="https://steamcommunity.com/sharedfiles/filedetails/?id=1429338237" alt="альтернативный текст">
+
 Требуется версия (1.12+)
 
 Поддержка языков: русский, английский, португальский, французский, немецкий, польский и испанский.
